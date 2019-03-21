@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jcp510/LIRIBot/issues"
   },
-  "homepage": "https://github.com/jcp510/LIRIBot#readme"
+  "homepage": "https://github.com/jcp510/LIRIBot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7"
+  }
 }
